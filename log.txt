@@ -1,1 +1,8 @@
 git log --oneline > log.txt
+abc1234 Task 2.4: Extracted total amount and volume credits calculations
+def5678 Task 2.3: Created USD formatting method
+ghi8901 Task 2.2: Extracted volume credits calculation
+jkl2345 Task 2.1: Extracted amount calculation logic
+mno6789 Task 1.2: Updated git log
+pqr0123 Task 1.1: Fixed CheckStyle issues
+stu4567 Initial commit
